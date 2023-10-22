@@ -1,2 +1,0 @@
-# JaguarZap
-Chat
