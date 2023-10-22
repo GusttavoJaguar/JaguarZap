@@ -29,7 +29,6 @@ et-xmlfile==1.1.0
 exceptiongroup==1.1.1
 executing==1.2.0
 fastjsonschema==2.16.3
-flet==0.10.3
 flet-core==0.10.3
 flet-runtime==0.10.3
 fqdn==1.5.1
