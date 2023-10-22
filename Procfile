@@ -1,1 +1,0 @@
-web: pub main:app
