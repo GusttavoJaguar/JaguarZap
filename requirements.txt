@@ -6,7 +6,6 @@ cffi==1.15.1
 charset-normalizer==3.2.0
 colorama==0.4.6
 comtypes==1.2.0
-copier==8.3.0
 decorator==5.1.1
 dunamai==1.19.0
 envoy==0.0.3
