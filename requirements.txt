@@ -1,5 +1,4 @@
 copier==8.3.0
-flet==0.10.3
 flet-core==0.10.3
 flet-runtime==0.10.3
 gunicorn==21.2.0
