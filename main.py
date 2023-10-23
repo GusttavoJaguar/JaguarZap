@@ -7,7 +7,7 @@
 	# Nome: texto da mensagem
 # Jaguarzap
 
-import flet as ft 
+import flet as ft
 
 def main(pagina):
 	texto = ft.Text("JaguarZap")
