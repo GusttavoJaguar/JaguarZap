@@ -29,5 +29,4 @@ et-xmlfile==1.1.0
 exceptiongroup==1.1.1
 executing==1.2.0
 fastjsonschema==2.16.3
-flet==0.10.3
 gunicorn==21.2.0
